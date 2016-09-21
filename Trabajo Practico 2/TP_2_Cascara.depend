@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1474401953 source:c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
+1474288466 c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\funciones.h
+
+1474403037 source:c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
+1474157610 c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\milibreria.h
+
+1474400709 c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\libreria.h
+
+1474401995 source:c:\users\enzo\downloads\tp_2_cascara\tp_2_cascara\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1474418129 source:d:\enzo\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
+1474416081 d:\enzo\tp_2_cascara\funciones.h
+
+1474400710 d:\enzo\tp_2_cascara\libreria.h
+
+1474401996 source:d:\enzo\tp_2_cascara\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1474418199 source:d:\enzo\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
+1474418894 source:f:\programacion\tp_2_cascara- terminado\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
+1474486814 f:\programacion\tp_2_cascara- terminado\funciones.h
+
+1474400710 f:\programacion\tp_2_cascara- terminado\libreria.h
+
+1474401996 source:f:\programacion\tp_2_cascara- terminado\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1474418200 source:f:\programacion\tp_2_cascara- terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"libreria.h"
+
