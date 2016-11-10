@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1478636685 source:c:\users\enzo\downloads\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"miLibreria.h"
+
+1478636776 c:\users\enzo\downloads\tp_3_cascara\tp_3_cascara\funciones.h
+
+1478690182 source:c:\users\enzo\downloads\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"miLibreria.h"
+
+1476543801 c:\users\enzo\downloads\tp_3_cascara\tp_3_cascara\milibreria.h
+
+1476549240 source:c:\users\enzo\downloads\tp_3_cascara\tp_3_cascara\milibreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miLibreria.h"
+
